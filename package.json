@@ -1,0 +1,14 @@
+{
+  "name": "5b85773a14180f48",
+  "main": "5b85773a14180f48@3138.js",
+  "version": "3138.0.0",
+  "homepage": "https://observablehq.com/d/5b85773a14180f48",
+  "author": {
+    "name": "Michael Ortiz",
+    "url": "https://observablehq.com/@elfua360"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4"
+  }
+}
